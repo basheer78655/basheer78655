@@ -1,5 +1,14 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img alt="Basheer's Profile Banner" src="./dark.svg" width="100%">
+</picture>
+
+<br>
+
 # 💫 About Me:
-🔭 I’m currently working on my portfolio website and learning the basics of Git.<br><br>👯 I’m looking to collaborate on simple beginner-friendly projects or hackathons.<br><br>🤝 I’m looking for help with understanding Data Structures and Algorithms.<br><br>🌱 I’m currently learning the fundamentals of [Language, e.g., Python/Java].<br><br>💬 Ask me about my journey into tech and why I love coding.<br><br>⚡ I'm a singer , i Sing alot of songs
+🔭 I’m currently working on my portfolio website and learning the basics of Git.<br><br>👯 I’m looking to collaborate on simple beginner-friendly projects or hackathons.<br><br>🤝 I’m looking for help with understanding Data Structures and Algorithms.<br><br>🌱 I’m currently learning the fundamentals of Python and Java.<br><br>💬 Ask me about my journey into tech and why I love coding.<br><br>⚡ I'm a singer, I sing a lot of songs.
+
 
 
 ## 🌐 Socials:
